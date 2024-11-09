@@ -1,0 +1,3 @@
+#application.yml
+general:
+  kafka-topic: alaska
